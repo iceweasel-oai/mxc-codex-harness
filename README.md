@@ -36,6 +36,7 @@ did not start and negative cases must not be interpreted as successful isolation
 
 ## Results
 
+- [2026-06-17, MXC SDK 0.2.0](docs/results/2026-06-17-mxc-0.2.0.md)
 - [2026-06-17, MXC SDK 0.7.0](docs/results/2026-06-17-mxc-0.7.0.md)
 
 ## Important note about the SDK adapter
