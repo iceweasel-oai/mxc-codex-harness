@@ -8,7 +8,8 @@
     "smoke": "node ./src/cli.mjs --suite smoke",
     "network": "node ./src/cli.mjs --suite network",
     "git": "node ./src/cli.mjs --suite git",
-    "all": "node ./src/cli.mjs --suite all"
+    "all": "node ./src/cli.mjs --suite all",
+    "update-sdk": "npm install @microsoft/mxc-sdk@latest"
   },
   "dependencies": {
     "@microsoft/mxc-sdk": "latest"

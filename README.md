@@ -34,6 +34,10 @@ did not start and negative cases must not be interpreted as successful isolation
 - `git` - `.git` protection, including the missing-path case
 - `all` - runs every suite
 
+## Results
+
+- [2026-06-17, MXC SDK 0.7.0](docs/results/2026-06-17-mxc-0.7.0.md)
+
 ## Important note about the SDK adapter
 
 This repo cannot currently verify the exact runtime API exposed by `@microsoft/mxc-sdk`, so the harness keeps that dependency isolated in `src/mxc-adapter.mjs`.

@@ -2,7 +2,7 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { spawnSync } from "node:child_process";
 
-const POLICY_VERSION = "0.5.0-alpha";
+const POLICY_VERSION = "0.7.0-alpha";
 
 function normalizeOutput(value) {
   if (value == null) {
